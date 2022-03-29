@@ -1,7 +1,7 @@
 ### Hi there 👋
+#### I'm Bytedefined, a full-stack Russian/Ukrainian/Australian software developer.
 
-![Bytedefined's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bytedefined&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
-
+## My Skills:
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,6 +15,8 @@
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+![Bytedefined's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bytedefined&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
 
 
 <!--
