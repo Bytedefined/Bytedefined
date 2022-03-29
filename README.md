@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Bytedefined's Visitors](https://visitor-badge.glitch.me/badge?page_id=Bytedefined&left_color=grey&right_color=blue)
-
 ![Bytedefined's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bytedefined&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
