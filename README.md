@@ -16,7 +16,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)-->
 
-[![Bytedefined's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bytedefined)](https://git.io/streak-stats)
+[![Bytedefined's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bytedefined&theme=dark)](https://git.io/streak-stats)
 ![Bytedefined's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bytedefined&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
 
 
