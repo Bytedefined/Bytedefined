@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Bytedefined, a full-stack Russian/Ukrainian/Australian software developer.
+#### I'm Bytedefined, a full-stack Russian/Australian software developer.
 
 <!--## My Skills:
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
